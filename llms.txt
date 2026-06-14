@@ -1,0 +1,38 @@
+# Tetris Unblocked Online
+
+> Play free unblocked browser games online with no download. Fast-loading HTML5 games including action, racing, multiplayer, sports, puzzle, io games, and arcade classics.
+
+## Main Sections
+
+- Home: https://tetris-onlineunblocked.github.io/
+- Popular Games: https://tetris-onlineunblocked.github.io/popular/
+- All Games: https://tetris-onlineunblocked.github.io/all-games/
+
+## Popular Game Types
+
+- IO Games
+- Racing Games
+- Multiplayer Games
+- Shooting Games
+- Sports Games
+- Puzzle Games
+- Arcade Games
+- Parkour Games
+
+## Featured Games
+
+- https://tetris-onlineunblocked.github.io/class/subway-surfers/
+- https://tetris-onlineunblocked.github.io/class/moto-x3m/
+- https://tetris-onlineunblocked.github.io/class/ovo/
+- https://tetris-onlineunblocked.github.io/class/drift-boss/
+- https://tetris-onlineunblocked.github.io/class/smash-karts/
+- https://tetris-onlineunblocked.github.io/class/run-3/
+- https://tetris-onlineunblocked.github.io/class/tunnel-rush/
+- https://tetris-onlineunblocked.github.io/class/temple-run-2/
+- https://tetris-onlineunblocked.github.io/class/retro-bowl/
+- https://tetris-onlineunblocked.github.io/class/house-of-hazards/
+
+## Policies
+
+- Privacy Policy: https://tetris-onlineunblocked.github.io/privacy-policy/
+- Contact: https://tetris-onlineunblocked.github.io/contact/
